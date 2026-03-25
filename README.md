@@ -9,19 +9,19 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Arthur Moraes Braga Araujo
+- Matricula: 1025300
+- Proposta de projeto escolhida: Proposta 4- Coleções e itens
+- Breve descrição sobre seu projeto: Um site para facilitar a pesquisa de discos de vinis que se tornou uma raridade nos dias de hoje e que algumas pessoas possuem o interesse por sua raridade e exclusividade, o site é um meio para facilitar que usuários que desejam comprar ou procurar lojas que vendem os discos encontrem o que desejam.
 
 
 ## Print do(s) wireframe(s) criado
 > Sugestão, use o Excalidraw para isso. Utilize esse [template básico](https://excalidraw.com/#json=LU-8hwcQEwzk11FwO8Opo,qPU9K6cNUEzlXzwOuKMIlQ) para você começar. 
 
 <<  COLOQUE A IMAGEM AQUI >>
-
-
+![Wireframe](public/Wireframe.excalidraw)
+![Wireframe](public/Wireframe.jpeg)
 
 ## Print da home-page criada
 
-<<  COLOQUE A IMAGEM AQUI >>
+![Home_page](public/Site.png)
